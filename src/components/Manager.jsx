@@ -129,7 +129,7 @@ const Manager = () => {
       transition="Bounce"
       />
 
-      <div className='mx-auto max-w-4xl p-4'>
+      <div className='mx-auto max-w-4xl p-4 min-h-screen'>
 
           <h1 className='text-5xl text-white font-bold text-center mt-10'>
           <span className='text-blue-700'>&lt;</span>
