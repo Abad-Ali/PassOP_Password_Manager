@@ -12,8 +12,8 @@ const Navbar = () => {
         <ul>
             <li className='flex md:gap-5 md:mr-22  md:ml-0 text-xs md:text-base'>
               <a className='hover:text-blue-700 text-2xs md:text-xl ' href='/'>Home</a>
-              <a className='hover:text-blue-700 text-2xs md:text-xl ml-2' href='#'>About</a>
-              <a className='hover:text-blue-700 text-2xs md:text-xl ml-2 md:mr-7' href='#'>Contact</a>
+              <a className='hover:text-blue-700 text-2xs md:text-xl ml-2' href='https://github.com/Abad-Ali/PassOP_Password_Manager/blob/main/README.md'>About</a>
+              <a className='hover:text-blue-700 text-2xs md:text-xl ml-2 md:mr-7' href='https://github.com/Abad-Ali'>Contact</a>
             </li>
         </ul>
 
